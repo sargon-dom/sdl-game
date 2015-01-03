@@ -8,11 +8,14 @@ namespace {
 Game::Game() :
 	graphics_()
 {
+	debug("init Game");
+
 	loop();
 }
 
 Game::~Game()
 {
+	debug("quit Game");
 }
 
 void Game::processInput()
