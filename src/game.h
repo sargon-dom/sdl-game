@@ -11,7 +11,7 @@ private:
 	void processInput();
 	void update();
 	void render();
-    Graphics graphics_;
+	Graphics graphics_;
 	bool running_ = false;
 };
 
