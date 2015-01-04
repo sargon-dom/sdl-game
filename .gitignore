@@ -173,6 +173,8 @@ cscope.out
 cscope.in.out
 cscope.po.out
 
+# obj
+obj/
 
 # bin
 bin/
