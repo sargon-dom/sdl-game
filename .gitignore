@@ -174,4 +174,5 @@ cscope.in.out
 cscope.po.out
 
 
-
+# bin
+bin/
